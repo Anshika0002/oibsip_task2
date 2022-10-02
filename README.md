@@ -2,4 +2,5 @@
 @oasisinfobyte task2 portfolio
 
 
-![Screenshot (62)](https://user-images.githubusercontent.com/104263640/193473507-bc0cf97d-b995-4344-805c-c922b8afd426.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/104263640/193474080-a811ccf1-021b-4ce5-8c95-961f6619e1a6.png)
